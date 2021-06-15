@@ -3,8 +3,8 @@
 
 A dataset consisting of various parameters to predict the price score/range of a mobile phone based on certain inputs such as following:
 
-id:ID
-battery_power:Total energy a battery can store in one time measured in mAh
+1.id:ID
+2.battery_power:Total energy a battery can store in one time measured in mAh
 blue:Has bluetooth or not
 clock_speed:speed at which microprocessor executes instructions
 dual_sim:Has dual sim support or not
